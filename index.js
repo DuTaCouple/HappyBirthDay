@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Hôm nay là một ngày đặc biệt, vừa là sinh nhật Duyên cũng vừa là Valentine. Dù không thể ở cạnh em lúc này nhưng anh cũng có món quà nhỏ dành tặng cho Duyên - Một người vô cùng đặc biệt với anh!" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc Duyên sinh nhật vui vẻ, đón tuổi mới với thật nhiều niềm vui, hạnh phúc và gặp thật nhiều may mắn! Anh thật sự rất hy vọng 14/02 năm sau và những năm sau nữa anh có thể bên em cùng đón sinh nhật, Valentine và tất cả các ngày trong năm bất kể là ngày thường hay ngày lễ. Will you be my Valentine? - From TuTai with love ❤️-" //Nội dung của bức thư
+const mainContentLetter = "Chúc Duyên sinh nhật vui vẻ, đón tuổi mới với nhiều niềm vui, hạnh phúc và gặp thật nhiều may mắn! Anh thật sự rất hy vọng 14/02 năm sau và tất cả những năm sau nữa anh có thể bên em cùng đón sinh nhật, Valentine và các ngày khác trong năm bất kể đó là ngày thường hay ngày lễ. Will you be my Valentine? - From TuTai with love ❤️-" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
